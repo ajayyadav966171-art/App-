@@ -1,0 +1,6 @@
+{
+  "name": "StudyAI",
+  "description": "An intelligent study suite featuring Q&A, note summarizing, interactive multiple-choice quizzes, tactile flashcards, and a customized exam-prep study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
